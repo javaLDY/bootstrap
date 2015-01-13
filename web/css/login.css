@@ -1,0 +1,6 @@
+body{margin:0 auto;}
+.box{border:1px #285e8e solid;width:1200px;height:402px;margin:0 auto;margin-top:16%;}
+#picture{width: 585px;height:402px;background-repeat: no-repeat;margin-left: -14px}
+#form{width: 585px;height:402px;margin-left: 14px}
+#title{width:504px;height: 60px;font-size: 50px;text-align: center;background: #dddddd;font-family: "华文新魏"}
+.errortext{font-size:22px;text-align: center;color: red}
